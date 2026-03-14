@@ -47,7 +47,7 @@
 ## Customer
 | Attribute | Data Type | Description | Constraints |
 | --- | --- | --- | --- |
-| customer_id | serial | unique identifier of user | Primary key |
+| customer_id | serial | unique identifier of customer | Primary key |
 | firstname | varchar(255) | customer's first name | Not Null |
 | surname | varchar(255) | customer's surname | Not Null |
 
